@@ -70,7 +70,7 @@ public class ProduitDao {
 	 
 	 
 	}
-	l
+	
 	// Une méthode pour mettre à jour les données
 	public static int modifier(Produit product, Connection cnx, boolean fermerConnection) throws SQLException {
 		
